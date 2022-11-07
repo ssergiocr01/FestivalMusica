@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto GULP, SASS Y HTML",
+  "main": "index.js",
+  "devDependencies": {
+    "sass": "^1.56.0"
+  },
+  "scripts": {
+    "test": "sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssergiocr01/FestivalMusica.git"
+  },
+  "keywords": [
+    "GULP",
+    "SASS"
+  ],
+  "author": "Sergio Serrano Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssergiocr01/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/ssergiocr01/FestivalMusica#readme"
+}
